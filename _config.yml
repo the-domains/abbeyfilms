@@ -1,0 +1,28 @@
+name: AbbeyFilms
+favicon: null
+layout_spectrum: 0.91417854744941
+typography_spectrum: 0.8511643486563116
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.32820301898755133
+  lightness: 0.45957862096838653
+  saturation: 0.7083042017184198
+  rhythmicContrast: 0.8525458525400609
+purpose: []
